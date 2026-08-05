@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-🚀%20Aktif%20Ngoding%20Setiap%20Hari-blueviolet?style=flat-square" alt="Status Aktif" />
-  <img src="https://img.shields.io/badge/Location-🇮🇩%20Indonesia-blue?style=flat-square" alt="Lokasi Indonesia" />
+  <img src="https://img.shields.io/badge/Status-🚀%20Aktif%20Ngoding-blueviolet?style=flat-square" alt="Status Aktif" />
+  <img src="https://img.shields.io/badge/Focus-💻%20Software%20Engineering-blue?style=flat-square" alt="Fokus" />
 </p>
 
 ---
@@ -25,19 +25,7 @@
 
 ---
 
-### 📊 Statistik & Ringkasan Akun (Anti-Error)
-
-| Kategori Utama | Detail Informasi |
-| :--- | :--- |
-| **Status Saat Ini** | 🚀 Aktif Belajar & Mengembangkan Diri |
-| **Fokus Utama** | 💻 Software Engineering Enthusiast & Web Development |
-| **Version Control** | 🐙 Git & GitHub (`arya-Z`) |
-| **Total Repositori** | 📂 Dihitung otomatis oleh sistem GitHub |
-| **Total Kontribusi** | 📈 Dihitung otomatis oleh grafik kontribusi |
-
----
-
-### 🛠️ Bahasa & Tools yang Dikuasai
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
@@ -45,15 +33,15 @@
 
 ---
 
-### 💡 Motivasi Hari Ini
+### 📈 GitHub Streak
 
-> *"Konsistensi melakukan commit kecil setiap hari jauh lebih berharga daripada sekali ngoding semalaman lalu berhenti berminggu-minggu."*
-> 
-> **— Semangat Software Engineering 🚀**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya-Z&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📫 Hubungi & Terhubung Dengan Saya
+### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:bgarya205@gmail.com" target="_blank">
