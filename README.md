@@ -9,24 +9,19 @@
 
 ---
 
+
 ### 📊 Statistik GitHub Saya
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya-Z&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arya-Z&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
 ### 💻 Bahasa & Tools yang Digunakan
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
 
 ---
 
 ### 💡 Daily Programming Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Readme Quotes" />
-</p>
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
