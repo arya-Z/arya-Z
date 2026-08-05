@@ -15,7 +15,7 @@
 
 ---
 
-### 🐍 Snake.io
+### 🐍 Aktivitas GitHub Saya
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake-dark.svg">
@@ -25,26 +25,15 @@
 
 ---
 
-### 📊 Statistik & Ringkasan Akun 
+### 📊 Statistik & Grafik GitHub Saya
 
-| Kategori Utama | Detail Informasi |
-| :--- | :--- |
-| **Status Saat Ini** | 🚀 Aktif Belajar & Mengembangkan Diri |
-| **Fokus Utama** | 💻 Software Engineering Enthusiast & Web Development |
-| **Version Control** | 🐙 Git & GitHub (`arya-Z`) |
-| **Total Repositori** | 📂 Dihitung otomatis oleh sistem GitHub |
-| **Total Kontribusi** | 📈 Dihitung otomatis oleh grafik GitHub |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arya-Z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
----
-
-### 🏆 Pencapaian Kontribusi 
-
-| Lencana Pencapaian | Keterangan |
-| :--- | :--- |
-| **🗓️ Year of Activity** | 📅 Aktif sejak tahun akun dibuat (Data GitHub) |
-| **⚡ Contribution Level** | 📈 Tingkat aktivitas kontribusi (sesuai grafik) |
-| **📂 Public Repositories** | 📦 Jumlah repositori publik yang dikelola |
-| **⬆️ Pull Requests** | 🔄 Kontribusi melalui Pull Requests |
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya-Z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -76,12 +65,13 @@
   <a href="https://www.linkedin.com/in/m-arya-pratama-180821332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://wa.me/6283110046169" target="_blank">
+  <a href="https://wa.me/6281234567890" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
   </a>
 </p>
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Profil%20Views-blue?style=social&logo=github" alt="Profile Views Shield" /> 
 </p>
