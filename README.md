@@ -8,10 +8,12 @@
 
 ---
 
+
+
 ### 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya-Z&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arya-Z&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -20,6 +22,15 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 💡 Daily Programming Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Readme Quotes" />
+</p>rc="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
