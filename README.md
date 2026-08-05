@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/graphs/high-contrast-intro.gif" alt="Header Animation" width="100%">
 </p>
 
-<h1 align="center">👋 Halo Dunia, Saya M. Arya Pratama</h1>
+<h1 align="center">👋 Hallo, Saya M. Arya Pratama</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Development+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
