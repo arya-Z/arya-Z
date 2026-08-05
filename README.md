@@ -15,7 +15,7 @@
 
 ---
 
-### 🐍 Aktivitas GitHub Saya
+### 🐍 Snake.io
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake-dark.svg">
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 Statistik & Ringkasan Akun (Dijamin Tampil)
+### 📊 Statistik & Ringkasan Akun 
 
 | Kategori Utama | Detail Informasi |
 | :--- | :--- |
@@ -37,7 +37,7 @@
 
 ---
 
-### 🏆 Pencapaian Kontribusi (Dijamin Pasti Muncul)
+### 🏆 Pencapaian Kontribusi 
 
 | Lencana Pencapaian | Keterangan |
 | :--- | :--- |
@@ -67,16 +67,21 @@
 ### 📫 Hubungi & Terhubung Dengan Saya
 
 <p align="center">
-  <a href="mailto:bgarya205@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:bgarya205@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://github.com/arya-Z">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/arya-Z" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-arya-pratama-180821332/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://wa.me/6283110046169" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
   </a>
 </p>
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/Profil%20Views-blue?style=social&logo=github" alt="Profile Views Shield" /> 
 </p>
