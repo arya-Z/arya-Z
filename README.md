@@ -1,4 +1,4 @@
-### 🐍 Aktivitas GitHub Saya
+### 🐍 Snake.io
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake-dark.svg">
