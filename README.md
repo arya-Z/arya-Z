@@ -25,15 +25,15 @@
 
 ---
 
-### 📊 Statistik & Grafik GitHub Saya
+### 📊 Statistik & Ringkasan Akun (Anti-Error)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arya-Z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya-Z&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+| Kategori Utama | Detail Informasi |
+| :--- | :--- |
+| **Status Saat Ini** | 🚀 Aktif Belajar & Mengembangkan Diri |
+| **Fokus Utama** | 💻 Software Engineering Enthusiast & Web Development |
+| **Version Control** | 🐙 Git & GitHub (`arya-Z`) |
+| **Total Repositori** | 📂 Dihitung otomatis oleh sistem GitHub |
+| **Total Kontribusi** | 📈 Dihitung otomatis oleh grafik kontribusi |
 
 ---
 
