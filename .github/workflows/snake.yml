@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  # Jalankan otomatis setiap 24 jam sekali
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Bisa juga dijalankan secara manual dari tab Actions
+  workflow_dispatch:
+  
+  # Jalankan setiap ada push ke branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#7db3f6,#4682b4,#104e8b,#000080
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
