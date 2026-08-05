@@ -15,21 +15,26 @@
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 📊 Statistik & Ringkasan Akun
 
 | Kategori | Keterangan |
 | :--- | :--- |
 | **Status Akun** | 🚀 Aktif Belajar & Ngoding |
 | **Fokus Utama** | Software Engineering Enthusiast & Web Development |
 | **Version Control** | Git & GitHub (`arya-Z`) |
+| **Total Repositori** | Dihitung otomatis oleh GitHub |
+| **Total Kontribusi** | Dihitung otomatis oleh GitHub |
 
 ---
 
-### 🏆 Pencapaian GitHub
+### 🏆 Pencapaian & Lencana Kontribusi (Dijamin Pasti Muncul)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arya-Z&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+| Kategori Pencapaian | Lencana |
+| :--- | :--- |
+| **Year of Activity** | 🗓️ Aktif sejak tahun akun dibuat |
+| **Contribution Level** | ⚡ Tingkat kontribusi (sesuai grafik) |
+| **Public Repositories** | 📂 Jumlah repositori publik |
+| **Pull Requests** | ⬆️ Jumlah Pull Requests yang diajukan |
 
 ---
 
@@ -63,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arya-Z&color=blueviolet&style=flat-square" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/GitHub-Profile%20Views-blue?style=social&logo=github" alt="Profile Views Shield" /> 
 </p>
