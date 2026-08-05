@@ -28,7 +28,7 @@
 ### 🏆 Pencapaian GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arya-Z&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arya-Z&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
