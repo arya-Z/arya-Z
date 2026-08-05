@@ -1,6 +1,16 @@
-<h1 align="center">Halo, Saya M. Arya Pratama 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Web+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/graphs/high-contrast-intro.gif" alt="Header Animation" width="100%">
+</p>
+
+<h1 align="center">👋 Halo Dunia, Saya M. Arya Pratama</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Development+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🚀%20Aktif%20Ngoding%20Setiap%20Hari-blueviolet?style=flat-square" alt="Status Aktif" />
+  <img src="https://img.shields.io/badge/Location-🇮🇩%20Indonesia-blue?style=flat-square" alt="Lokasi Indonesia" />
 </p>
 
 ---
@@ -10,35 +20,35 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arya-Z/arya-Z/output/github-snake.svg" width="100%">
 </picture>
 
 ---
 
-### 📊 Statistik & Ringkasan Akun
+### 📊 Statistik & Ringkasan Akun (Dijamin Tampil)
 
-| Kategori | Keterangan |
+| Kategori Utama | Detail Informasi |
 | :--- | :--- |
-| **Status Akun** | 🚀 Aktif Belajar & Ngoding |
-| **Fokus Utama** | Software Engineering Enthusiast & Web Development |
-| **Version Control** | Git & GitHub (`arya-Z`) |
-| **Total Repositori** | Dihitung otomatis oleh GitHub |
-| **Total Kontribusi** | Dihitung otomatis oleh GitHub |
+| **Status Saat Ini** | 🚀 Aktif Belajar & Mengembangkan Diri |
+| **Fokus Utama** | 💻 Software Engineering Enthusiast & Web Development |
+| **Version Control** | 🐙 Git & GitHub (`arya-Z`) |
+| **Total Repositori** | 📂 Dihitung otomatis oleh sistem GitHub |
+| **Total Kontribusi** | 📈 Dihitung otomatis oleh grafik GitHub |
 
 ---
 
-### 🏆 Pencapaian & Lencana Kontribusi (Dijamin Pasti Muncul)
+### 🏆 Pencapaian Kontribusi (Dijamin Pasti Muncul)
 
-| Kategori Pencapaian | Lencana |
+| Lencana Pencapaian | Keterangan |
 | :--- | :--- |
-| **Year of Activity** | 🗓️ Aktif sejak tahun akun dibuat |
-| **Contribution Level** | ⚡ Tingkat kontribusi (sesuai grafik) |
-| **Public Repositories** | 📂 Jumlah repositori publik |
-| **Pull Requests** | ⬆️ Jumlah Pull Requests yang diajukan |
+| **🗓️ Year of Activity** | 📅 Aktif sejak tahun akun dibuat (Data GitHub) |
+| **⚡ Contribution Level** | 📈 Tingkat aktivitas kontribusi (sesuai grafik) |
+| **📂 Public Repositories** | 📦 Jumlah repositori publik yang dikelola |
+| **⬆️ Pull Requests** | 🔄 Kontribusi melalui Pull Requests |
 
 ---
 
-### 💻 Bahasa & Tools yang Digunakan
+### 🛠️ Bahasa & Tools yang Dikuasai
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
@@ -48,7 +58,7 @@
 
 ### 💡 Motivasi Hari Ini
 
-> *"Konsistensi melakukan commit kecil setiap hari jauh lebih berharga daripada sekali ngoding semalaman lalu berhenti."*
+> *"Konsistensi melakukan commit kecil setiap hari jauh lebih berharga daripada sekali ngoding semalaman lalu berhenti berminggu-minggu."*
 > 
 > **— Semangat Software Engineering 🚀**
 
@@ -61,12 +71,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/arya-Z">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile%20Views-blue?style=social&logo=github" alt="Profile Views Shield" /> 
+  <img src="https://img.shields.io/badge/Profil%20Views-blue?style=social&logo=github" alt="Profile Views Shield" /> 
 </p>
