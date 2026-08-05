@@ -33,14 +33,6 @@
 
 ---
 
-### 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arya-Z&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
