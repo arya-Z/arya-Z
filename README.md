@@ -8,13 +8,13 @@
 
 ---
 
-
-
 ### 📊 Statistik GitHub Saya
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arya-Z&theme=tokyonight" alt="GitHub Stats" />
-</p>
+| Kategori | Keterangan |
+| :--- | :--- |
+| **Status Akun** | 🚀 Aktif Belajar & Ngoding |
+| **Fokus Utama** | Software Engineering & Web Development |
+| **Version Control** | Git & GitHub (`arya-Z`) |
 
 ---
 
@@ -26,17 +26,8 @@
 
 ---
 
-### 💡 Daily Programming Quote
+### 💡 Motivasi Hari Ini
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Readme Quotes" />
-</p>rc="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="Tech Stack" />
-</p>
-
----
-
-### 💡 Daily Programming Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</p>
+> *"Konsistensi melakukan commit kecil setiap hari jauh lebih berharga daripada sekali ngoding semalaman lalu berhenti."*
+> 
+> **— Semangat Software Engineering 🚀**
