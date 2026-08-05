@@ -13,7 +13,7 @@
 | Kategori | Keterangan |
 | :--- | :--- |
 | **Status Akun** | 🚀 Aktif Belajar & Ngoding |
-| **Fokus Utama** | Software Engineering & Web Development |
+| **Fokus Utama** | Software Engineering Enthusiast & Web Development |
 | **Version Control** | Git & GitHub (`arya-Z`) |
 
 ---
